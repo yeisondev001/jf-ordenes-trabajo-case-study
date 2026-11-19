@@ -7,9 +7,13 @@
 
 > **Este repositorio es un caso de estudio, no contiene código.** El sistema es propiedad de la empresa donde está en producción y su código permanece privado. Aquí se muestra el problema, la solución y cómo funciona.
 >
-> 🎬 Más proyectos: **[portafolio de Yeison Rojas](https://ai-automation-portfolio-cyan.vercel.app)**
+> 🎬 Recorrido en video y más proyectos: **[portafolio de Yeison Rojas](https://ai-automation-portfolio-cyan.vercel.app/proyecto/jf-ordenes)**
 
 Convierte cada falla que Producción reporta a Mantenimiento o al Taller de Molde en una **orden de trabajo con los tiempos medidos por etapa y un responsable en cada tramo**.
+
+![Recorrido por JF Órdenes de Trabajo](img/recorrido.gif)
+
+*Recorrido real de la app con datos de prueba: el encargado asigna la orden, el técnico escanea la máquina y cada etapa queda medida.*
 
 ## El reto
 
